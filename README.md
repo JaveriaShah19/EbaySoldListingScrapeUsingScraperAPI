@@ -23,7 +23,11 @@ Scraping eBay Listings: The project scrapes the eBay search results page to extr
 **Technologies Used:**
 
 Flask: For building the web API.
+
 BeautifulSoup: For parsing and extracting HTML data from eBay.
+
 Requests: For making HTTP requests to ScraperAPI and eBay.
+
 ScraperAPI: For bypassing eBay’s restrictions and scraping data reliably using rotating proxies.
+
 Clay: For automating data handling and ensuring seamless input/output integration.
